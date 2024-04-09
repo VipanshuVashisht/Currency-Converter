@@ -10,7 +10,7 @@ This project is a simple currency converter application built using React. It al
 - Real-time exchange rate updates
 - User-friendly interface
 
-# Technologies Used
+## Technologies Used
 
 - **React:** JavaScript library for building user interfaces
 - **JavaScript:** Programming language for adding interactivity to the application
